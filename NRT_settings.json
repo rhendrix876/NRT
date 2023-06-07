@@ -1,0 +1,10 @@
+{
+	"eventUrl": "https://2908641.mediaspace.kaltura.com/media/t/1_64y5a589",
+	"testDurationSec": "300",
+	"browser": "edge",
+	"internalIp": "$true",
+	"participation": "100",
+	"participantCount": "1000",
+	"rampUpMax": "60",
+	"eventStartString": ""
+}
