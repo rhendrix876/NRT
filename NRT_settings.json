@@ -2,9 +2,9 @@
 	"eventUrl": "https://2908641.mediaspace.kaltura.com/media/t/1_64y5a589",
 	"testDurationSec": "300",
 	"browser": "edge",
-	"internalIp": "1",
+	"internalIp": "True",
 	"participation": "100",
 	"participantCount": "1000",
 	"rampUpMax": "60",
-	"eventStartString": " "
+	"eventStartString": "2023-06-07T16:00:00Z"
 }
