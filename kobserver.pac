@@ -13,6 +13,7 @@ function FindProxyForURL(url, host) {
     if (shExpMatch(host, "salesforce.com") || shExpMatch(host, "*.salesforce.com") ||
         shExpMatch(host, "microsoft.com") || shExpMatch(host, "*.microsoft.com") ||
         shExpMatch(host, "cnn.com") || shExpMatch(host, "*cnn.com") ||
+	shExpMatch(host, "youtube.com") || shExpMatch(host, "*youtube.com") ||
 		shExpMatch(host, "kobserver.kollective.app") || shExpMatch(host, "*kobserver.kollective.app") ||
 		shExpMatch(host, "office.com") || shExpMatch(host, "*.office.com")) {
             // first to kobserver, with fallback
